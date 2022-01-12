@@ -3,6 +3,8 @@ A collection of materials related to my certification videos hosted on YouTube.
 
 https://onboardtoazure.com (https://youtube.com/ntfaqguy)
 
+Please [subscribe](https://www.youtube.com/channel/UCpIn7ox7j7bH_OFj7tYouOQ?sub_confirmation=1) and support my channel. Thank you.
+
 I have a recommended full path with other useful links and materials at https://learn.onboardtoazure.com. This includes my content, links to Microsoft materials, exam sandbox environment links and more.
 
 ## Video and Whiteboard Index
