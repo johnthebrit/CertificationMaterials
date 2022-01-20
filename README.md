@@ -9,6 +9,8 @@ I have a recommended full path with other useful links and materials at https://
 
 ## Video and Whiteboard Index
 
+Getting started learning Azure introduction video - https://youtu.be/V1Hk45XD6Qw
+
 | Video/Playlist | Artifact |
 |--|--|
 | [AZ-900 Full Course](https://youtube.com/playlist?list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3) | [AZ-900 Course Handout](/handouts/AZ-900-Course-Handout.pdf) |
@@ -24,3 +26,6 @@ I have a recommended full path with other useful links and materials at https://
 | [AZ-700 Study Cram](https://youtu.be/nVZYDhB_M64) | [AZ-700 Study Cram Whiteboard](/whiteboards/AZ-700-Whiteboard.png) |
 | [AZ-305 Study Playlist](https://youtube.com/playlist?list=PLlVtbbG169nHSnaP4ae33yQUI3zcmP5nP) | |
 | [AZ-305 Study Cram](https://youtu.be/vq9LuCM4YP4) | [AZ-305 Study Cram Whiteboard](/whiteboards/AZ-305-Whiteboard.png) |
+| [AZ-400 DevOps Master Class](https://youtube.com/playlist?list=PLlVtbbG169nFr8RzQ4GIxUEznpNR53ERq) | [DevOps Master Class Materials Repo](https://github.com/johnthebrit/DevOpsMC)|
+
+Certification renewal experience video - https://youtu.be/L9luTi9LyXU
