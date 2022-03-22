@@ -22,6 +22,8 @@ Getting started learning Azure introduction video - https://youtu.be/V1Hk45XD6Qw
 | [SC-900 Study Cram](https://youtu.be/Bz-8jM3jg-8) | [SC-900 Study Cram Whiteboard](/whiteboards/SC-900-Whiteboard.png) |
 | [AZ-104 Study Playlist](https://youtube.com/playlist?list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs) | |
 | [AZ-104 Study Cram](https://youtu.be/VOod_VNgdJk) | [AZ-104 Study Cram Whiteboard](/whiteboards/AZ-104-Whiteboard.png) |
+| [SC-300 Study Playlist](https://youtube.com/playlist?list=PLlVtbbG169nGj4rfaMUQiKiBZNDlxoo0y) | |
+| [SC-300 Study Cram](https://youtu.be/LGpgqRVG65g) | [SC-300 Study Cram Whiteboard](/whiteboards/SC-300-Whiteboard.png) |
 | [AZ-500 Study Playlist](https://youtube.com/playlist?list=PLlVtbbG169nHw9T1L_CiLxC-DTwKu-BZG) | |
 | [AZ-500 Study Cram](https://youtu.be/6vISzj-z8k4) | [AZ-500 Study Cram Whiteboard](/whiteboards/AZ-500-Whiteboard.png) |
 | [AZ-700 Study Playlist](https://youtube.com/playlist?list=PLlVtbbG169nGeFODKRZhjqdSxFpSPXVOa) | |
