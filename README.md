@@ -16,7 +16,7 @@ Getting started learning Azure introduction video - https://youtu.be/V1Hk45XD6Qw
 | [AZ-900 Full Course](https://youtube.com/playlist?list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3) | [AZ-900 Course Handout](https://github.com/johnthebrit/AZ900CertCourse/blob/main/John%20Savill's%20AZ-900%20Azure%20Fundamentals%20Certification%20Course%20Handout.pdf) |
 | [AZ-900 Study Cram](https://youtu.be/tQp1YkB2Tgs) | [AZ-900 Study Cram Whiteboard](/whiteboards/AZ-900-Whiteboard.png) |
 | [AI-900 Study Cram](https://youtu.be/E9aarWMLJw0) | [AI-900 Study Cram Whiteboard](/whiteboards/AI-900-Whiteboard.png) |
-| [DP-900 Study Cram](https://youtu.be/LirvmXjZU90) | [DP-900 Study Cram Whiteboard](/whiteboards/DP-900-Whiteboard.png) |
+| [DP-900 Study Cram](https://youtu.be/0gtpasITVnk) | [DP-900 Study Cram Whiteboard](/whiteboards/DP-900-v2-whiteboard.png) |
 | [MS-900 Study Cram](https://youtu.be/np9jfnwnO2c) | [MS-900 Study Cram Whiteboard](/whiteboards/MS-900v2.png) |
 | [PL-900 Study Cram](https://youtu.be/lbPHM-MiEUA) | [PL-900 Study Cram Whiteboard](/whiteboards/PL-900-Whiteboard.png) |
 | [SC-900 Study Cram](https://youtu.be/Bz-8jM3jg-8) | [SC-900 Study Cram Whiteboard](/whiteboards/SC-900-Whiteboard.png) |
